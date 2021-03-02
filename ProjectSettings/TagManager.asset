@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Gem
+  - cherry
+  - PORTAL
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 2113437849
+    locked: 0
+  - name: Ground
+    uniqueID: 2788882595
+    locked: 0
+  - name: Environment
+    uniqueID: 4123331839
+    locked: 0
+  - name: Player
+    uniqueID: 4131189541
+    locked: 0
+  - name: PauseMenu
+    uniqueID: 1400818855
+    locked: 0
